@@ -22,7 +22,6 @@ from wordcloud import WordCloud
 # Make the standard library cooperative.
 monkey.patch_all()
 
-
 def get_logger():
     """
     创建日志实例
@@ -35,7 +34,6 @@ def get_logger():
     ch.setFormatter(formatter)
     logger.addHandler(ch)
     return logger
-
 
 HEADERS = {
     "X-Requested-With": "XMLHttpRequest",
@@ -56,12 +54,10 @@ POOL_MAXSIZE = 8  # 线程池最大容量
 
 logger = get_logger()
 
-
 class JobSpider:
     """
     51 job 网站爬虫类
     """
-
     def __init__(self):
         self.count = 1  # 记录当前爬第几条数据
         self.company = []
@@ -137,7 +133,6 @@ class JobSpider:
         # 使用 thulac 分词
         # thu = thulac.thulac(seg_only=True)
         # thu.cut(post, text=True)
-
         # 使用 jieba 分词
         file_path = os.path.join("data", "user_dict.txt")
         jieba.load_userdict(file_path)
@@ -275,7 +270,6 @@ class JobSpider:
     def insert_into_db():
         """
         插入数据到数据库
-
         create table jobpost(
             j_salary float(3, 1),
             j_locate text,
@@ -307,7 +301,6 @@ class JobSpider:
     def execute_more_tasks(self, target):
         """
         协程池接收请求任务,可以扩展把解析,存储耗时操作加入各自队列,效率最大化
-
         :param target: 任务函数
         :param count: 启动线程数量
         """
@@ -325,11 +318,9 @@ class JobSpider:
 
 if __name__ == "__main__":
     spider = JobSpider()
-
     start = time.time()
     spider.run()
     logger.info("总耗时 {} 秒".format(time.time() - start))
-
     # 按需启动
     # spider.post_salary_locate()
     # spider.post_salary()
