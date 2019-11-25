@@ -26,12 +26,17 @@ def download_with_wget(file_name, url, key):
     save_dir = os.path.join(base_dir, key)
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
-    file_name +='.doc' #todo 这里如果是其他文件会有问题，需要手动改后缀
-    # filename = wget.detect_filename(url) + '.doc' # todo 自动获取文件名是一个id的格式，有问题待查
+
+    # filename = wget.download(url, out=save_path) # 可以直接指定输出路径，但是不确定文件后缀类型
+    filename = wget.download(url)  # 中文文件名会出现乱码，但是可以知道文件类型[tiku.gaokao.com]é«ä¿ç»ä¹ .doc
+    suffix_type = '.' + filename.split('.')[-1]
+    print(suffix_type)
+    file_name += suffix_type
     save_path = os.path.join(save_dir, file_name)
+
     curr_time = time.strftime("%Y-%m-%d %H:%M:%S")
     if not os.path.exists(save_path):
-        filename = wget.download(url, out=save_path)
+        os.rename(filename, save_path)
         print(file_name, ' 该文件下载完成 ', 'curr time----> :', curr_time)
     else:
         print(file_name, ' 文件已经存在 ', 'curr time----> :', curr_time)

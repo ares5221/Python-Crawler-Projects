@@ -27,6 +27,9 @@ def download_gaokaowang_page(search_key, base_url):
     introduction_contents = soup.find_all('p', class_="c-b6 ti2")
     for idc in introduction_contents:
         curr_introduction_contents.append(idc.get_text())
+
+    # todo 增加爬取下一页的链接 import
+    
     #
     # print(curr_titles)
     # print(curr_middle_websites)
@@ -80,7 +83,13 @@ def main():
             # todo download other web
 
 
+def input_key_word():
+    while True:
+        kw = input('Input Key Word:')
+        download_gaokaowang_page(kw, 'http://tiku.gaokao.com/search/type0/')
+
+
 # start
 if __name__=='__main__':
-    main()
-    # save_supplement_data()
+    # main()
+    input_key_word()
