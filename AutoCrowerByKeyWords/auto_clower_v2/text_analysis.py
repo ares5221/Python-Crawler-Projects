@@ -45,7 +45,7 @@ def text_content_analysis(key):
 
 
 def create_classifer_files(key):
-    print('创建分类文件夹，若已经存在则跳过')
+    # print('创建分类文件夹，若已经存在则跳过')
     base_dir = './../data_v2/target/'
     curr_dir = os.path.join(base_dir, key)
     if not os.path.exists(curr_dir):
@@ -98,8 +98,9 @@ def save_corresponding_path(file_path, class_type, key_word):
         os.rename(file_path, save_path)
     else:
         bc_path = os.path.join(backup_dir, file_name)
-        os.rename(file_path, bc_path)
-        print('文件已经存在，将文件移动到backup 做删除')
+        if not os.path.exists(bc_path):
+            os.rename(file_path, bc_path)
+        # print('文件已经存在，将文件移动到backup 做删除')
 
 
 def get_content_type(file_name, content):
@@ -244,7 +245,7 @@ def readPptx(fileUrl, extend_table=False, extend_image=False):
 
 def phrase_zip(file_path):
     key_word = os.path.split(os.path.split(file_path)[0])[1]  # 根据切割得到文件所属关键字类别
-    print('当前zip文件所属关键字类别：', key_word)
+    # print('当前zip文件所属关键字类别：', key_word)
 
     abs_base_dir = os.path.abspath('./../')
     sp = os.path.split(file_path)
@@ -272,7 +273,7 @@ def phrase_zip(file_path):
 def phrase_rar(file_path):
     # todo 先将文件解压再处理
     key_word = os.path.split(os.path.split(file_path)[0])[1]  # 根据切割得到文件所属关键字类别
-    print('当前zip文件所属关键字类别：', key_word)
+    # print('当前zip文件所属关键字类别：', key_word)
     abs_base_dir = os.path.abspath('./../')
     sp = os.path.split(file_path)
     curr_key_word_file_path = sp[0]

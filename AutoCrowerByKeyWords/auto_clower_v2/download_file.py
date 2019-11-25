@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 
 def download_with_requests(url, file_name):
-    base_dir = './../test_docsavefile'
+    base_dir = './../test_func'
     save_path = os.path.join(base_dir, file_name)
     curr_time = time.strftime("%Y-%m-%d %H:%M:%S")
     if not os.path.exists(save_path):
@@ -62,6 +62,6 @@ def download_file_use_middle_website(search_key, titles, middle_websites):
 
 if __name__=='__main__':
     url = 'http://tiku.gaokao.com/download/type6/id7483'
-    file_name = '高中生物必修1光合作用同步练习1.doc'
+    file_name = '高中生物必修1光合作用同步练习1.docx'
     download_with_requests(url, file_name)
     # download_with_wget(url, file_name)

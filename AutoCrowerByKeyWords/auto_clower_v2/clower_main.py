@@ -8,8 +8,11 @@ from text_analysis import text_content_analysis
 
 def download_gaokaowang_page(search_key, base_url):
     print('开始下载文件 download start...')
+    headers = {
+        'user-agent': 'Mozilla/5.0'
+    }
     url = base_url + search_key
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     # 1 get web page data
     # print(response.content) # print(response.text)
     web_page = response.content
@@ -28,8 +31,8 @@ def download_gaokaowang_page(search_key, base_url):
     for idc in introduction_contents:
         curr_introduction_contents.append(idc.get_text())
 
-    # todo 增加爬取下一页的链接 import
-    
+    # todo 增加爬取下一页的链接 importe
+
     #
     # print(curr_titles)
     # print(curr_middle_websites)
