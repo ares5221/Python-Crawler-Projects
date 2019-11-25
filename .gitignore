@@ -6,6 +6,7 @@ data/
 *.csv
 *.npy
 *.json
+*.jpg
 # C extensions
 *.so
 *.doc

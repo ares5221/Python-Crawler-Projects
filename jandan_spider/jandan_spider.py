@@ -13,37 +13,47 @@ import time
 import requests
 import random
 from selenium import webdriver
+import uuid
+
 # 计时器
 def timeit(func):
     def wrapper():
         start = time.time()
         func()
-        end =time.time()
+        end = time.time()
         print(f'time consuming: {(end - start):.4f} seconds. ({func})')
     return wrapper
+
 
 def download_pic(img_url):
     r = requests.get(img_url, stream=True)
     image_name = img_url.split('/')[-1]
+    print(image_name)
+    image_name = str(uuid.uuid1()) + image_name
+    print('ss', image_name)
     cur_dir = os.path.abspath(os.curdir)
     img_dir = os.path.join(cur_dir, 'img', image_name)
-    # 下列方式适合较大文件下载
-    with open(img_dir, 'wb') as f:
-        for chunk in r.iter_content(chunk_size=128):
-            f.write(chunk)
-    print(f'{image_name} is saved.')
+    if not os.path.exists(img_dir):
+        # 下列方式适合较大文件下载
+        with open(img_dir, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=128):
+                f.write(chunk)
+        print(f'{image_name} is saved.')
+
+
 # 生成每个图片的url
 def generate_urls(url_base, browser):
-    """from the `url_base` to the real url: http://jandan.net/ooxx/page-58#comments"""
+    """from the `url_base` to the real url: http://jandan.net/ooxx/=58#comments"""
     cur_page_id = 1  # asign a value, but it will be changed
     ls = browser.find_elements_by_class_name('current-comment-page')  # .click()
     for idx, ele in enumerate(ls):
         print(f'ls_{idx}: {ele.text} ---> {ele.text[1:-1]}')  # ele.text: [59]
         cur_page_id = int(ele.text[1:-1])
-    all_page_ids = [i+1 for i in range(cur_page_id+1)]
+    all_page_ids = [i + 1 for i in range(cur_page_id + 1)]
     all_page_ids_reversed = all_page_ids[::-1]
-    url_ls = [url_base + '/page-' + str(id_) + '#comments' for id_ in all_page_ids_reversed]
+    url_ls = [url_base + '/' + str(id_) + '=#comments' for id_ in all_page_ids_reversed]
     return url_ls
+
 
 @timeit
 def main():
@@ -69,6 +79,7 @@ def main():
 
     browser.get_screenshot_as_file("capture.png")
     browser.close()
+
 
 if __name__ == "__main__":
     main()
