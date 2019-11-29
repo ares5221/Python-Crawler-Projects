@@ -11,7 +11,10 @@
 
 
 #### 准备工作
-测试前请安装好selenium，并在spider_jandan.py当前路径新建img文件夹
+测试前请安装好selenium，如果运行显示chrome版本不匹配，可以自行下载chrome drive，
+然后替换该路径下文件，也可以放在别的路径下，使用参数指定
+webdriver.Chrome(executable_path="G:/Download/AutoCrowerByKeyWords/data/drive/chromedriver.exe")
+并在spider_jandan.py当前路径新建img文件夹
 ```
 /root
     /img

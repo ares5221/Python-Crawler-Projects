@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-This is a simple python spider experiment based on selenium.webdriver.
-I choose selenium because the image urls can be find in the `Elements`
-table of Chrome, however, the image urls are missing in the  source
-code page. The good news is that it is pretty easy to get the image urls
-by using `webdriver.Chrome().get(url_base)`.
 煎蛋网爬虫
 
 """
