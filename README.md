@@ -1,2 +1,7 @@
 # Python-Crawler-Projects
 python爬虫从零开始入门及练手项目
+
+01python_clawer_learning_julyedu 是学习七月在线爬虫课程的相关代码
+
+02jiandan_spider 是爬一个最简单的煎蛋网的图片相关代码
+
