@@ -9,7 +9,7 @@ url_login = 'http://accounts.douban.com/login'
 formdata = {
     'redir':'https://www.douban.com',
     'form_email': '674361437@qq.com',
-    'form_password': '674361437ljf5221',
+    'form_password': '',
     'login': u'登陆'
 }
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'}

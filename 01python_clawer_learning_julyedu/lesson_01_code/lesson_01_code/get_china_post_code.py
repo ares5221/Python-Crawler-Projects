@@ -2,9 +2,11 @@ import requests
 import xml.etree.ElementTree as ET
 from xml.parsers.expat import ParserCreate
 import time
+
 '''
 本程序用来爬取IP138网站的数据，获取每个省份的市区邮编及区号信息
 '''
+
 
 class DefaultSaxHandler(object):
     def __init__(self, provinces):
@@ -24,14 +26,15 @@ class DefaultSaxHandler(object):
     # 文本处理
     def char_data(self, text):
         pass
-    
+
+
 def get_province_entry(url):
     # 获取文本，并用gb2312解码
     headers = {
-               'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063'}
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063'}
 
     requests.adapters.DEFAULT_RETRIES = 5
-    content = requests.get(url,headers=headers).content.decode('gb2312')
+    content = requests.get(url, headers=headers).content.decode('gb2312')
 
     # 确定要查找字符串的开始结束位置，并用切片获取内容。
     start = content.find('<map name=\"map_86\" id=\"map_86\">')
