@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c3cb862-2741-49f8-b168-c22783e92915" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/05douban_login_6.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/contacts.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_login_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/06douban_login_cookie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_login_up.py" beforeDir="false" afterPath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/05douban_login_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_top250_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_top250_movies.py" afterDir="false" />
-    </list>
+    <list default="true" id="7c3cb862-2741-49f8-b168-c22783e92915" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,15 +95,6 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/06douban_login_cookie.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="141" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="141" />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-second>
     </splitter>
@@ -166,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="399" />
     <option name="y" value="46" />
     <option name="width" value="1414" />
@@ -192,32 +174,6 @@
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_03_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_03_code" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_03_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_04_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_04_code" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_04_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,18 +347,18 @@
       <workItem from="1574674451517" duration="3224000" />
       <workItem from="1574734012361" duration="1138000" />
       <workItem from="1575345964760" duration="1298000" />
-      <workItem from="1576458736026" duration="18958000" />
+      <workItem from="1576458736026" duration="19468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24618000" />
+    <option name="totallyTimeSpent" value="25128000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16791044" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16791044" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" weight="0.32944915" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -413,7 +369,7 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.47505423" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.47505423" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
