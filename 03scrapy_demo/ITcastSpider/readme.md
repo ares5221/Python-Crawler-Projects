@@ -30,4 +30,10 @@ scrapy crawl itcast -o teachers.xml
 
 setting.py 启用管道
 
+在PyCharm中运行scrapy
+3.1. 方法一： 直接走PyCharm中的terminal中执行
+3.2. 方法二： 新建start.py并添加到configration中
+from scrapy import cmdline
+cmdline.execute("scrapy crawl itcast".split())
+
 
