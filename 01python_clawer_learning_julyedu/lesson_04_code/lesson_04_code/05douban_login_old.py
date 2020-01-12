@@ -7,13 +7,14 @@ from bs4 import BeautifulSoup
 目前豆瓣6.0中间嵌套了iframe 无法登录
 '''
 s = requests.Session()
-url_login = 'http://accounts.douban.com/login'
+url_login = 'https://accounts.douban.com/passport/login'
 
 formdata = {
-    'redir':'https://www.douban.com',
-    'form_email': 'username',
-    'form_password': '',
-    'login': u'登陆'
+    'ck':'UPOy',
+    'name': '674361437@qq.com',
+    'password': '',
+    'remember': 'false',
+
 }
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'}
 
