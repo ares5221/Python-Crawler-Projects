@@ -68,79 +68,50 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.59531015">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/items.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="10" selection-start-column="10" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="tencent.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="426">
-                  <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="69" />
-                  <folding>
-                    <element signature="e#24#37#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/pipelines.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="246">
-                  <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/settings.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="126">
-                  <caret line="67" column="37" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="scrapy_learning.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="162">
-                    <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/readme.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="90">
-                    <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="douyu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#193#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-96">
+              <caret line="16" column="12" selection-start-line="16" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,6 +173,11 @@
         <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/readme.md" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/items.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.py" />
+        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py" />
+        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py" />
+        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py" />
+        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py" />
+        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/readme.md" />
       </list>
     </option>
   </component>
@@ -215,7 +191,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="683" />
+    <option name="x" value="-30" />
+    <option name="width" value="1058" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -249,6 +226,33 @@
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -266,6 +270,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\Python-Crawler-Projects\03scrapy_demo\Douyu" />
       <recent name="D:\python\Python-Crawler-Projects\03scrapy_demo\ITcastSpider" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -429,8 +434,8 @@
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.47505423" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.15511551" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.35627836" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.10231023" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17927383" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" weight="0.3296875" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32838285" />
@@ -454,29 +459,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/51job-spider/data/post_require_new.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafengwo/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafengwo/mafengwo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mafengwo/mafengwo/spiders/pathspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01biquge-spider/biquge/biquge/items.py" />
     <entry file="file://$PROJECT_DIR$/01biquge-spider/biquge/biquge/spiders/biquge-spider.py" />
     <entry file="file://$PROJECT_DIR$/jandan_spider/LICENSE" />
     <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/README.md">
@@ -681,21 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -715,10 +682,35 @@
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -729,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="67" column="37" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -743,12 +728,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.py">
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="69" />
+        <state relative-caret-position="126">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="298">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="16" column="12" selection-start-line="16" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#193#206#0" expanded="true" />
           </folding>
         </state>
       </provider>

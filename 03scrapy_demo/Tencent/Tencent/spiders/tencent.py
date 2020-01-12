@@ -45,4 +45,3 @@ class TencentSpider(scrapy.Spider):
 
 
 
-    http://capi.douyucdn.cn/api/v1/getVerticalRoom?limit=20$offset=10
