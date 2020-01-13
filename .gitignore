@@ -12,7 +12,7 @@ data/
 *.doc
 *.docx
 # Distribution / packaging
-.Python
+
 build/
 develop-eggs/
 dist/
