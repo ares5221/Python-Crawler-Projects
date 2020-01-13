@@ -3,32 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="7c3cb862-2741-49f8-b168-c22783e92915" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$urlparse1.coverage" NAME="urlparse1 Coverage Results" MODIFIED="1543228310014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/urlparse2" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$doubanSpider.coverage" NAME="doubanSpider Coverage Results" MODIFIED="1543227488123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DouBanSpider" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$05douban_login_6_0.coverage" NAME="05douban_login_6.0 Coverage Results" MODIFIED="1576546074671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$WeiXinSpider.coverage" NAME="WeiXinSpider Coverage Results" MODIFIED="1543226398931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WxSpider/wx_spider" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$job_spider.coverage" NAME="job_spider Coverage Results" MODIFIED="1543231935558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job-spider" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1543228656469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$dytt8.coverage" NAME="dytt8 Coverage Results" MODIFIED="1543228289042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/dytt8" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$rosi.coverage" NAME="rosi Coverage Results" MODIFIED="1543228982025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlers/crawl3/crawl3/spiders" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$xunbo.coverage" NAME="xunbo Coverage Results" MODIFIED="1543228723762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/xunbo" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$jandan_spider.coverage" NAME="jandan_spider Coverage Results" MODIFIED="1574675891837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jandan_spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$spider.coverage" NAME="spider Coverage Results" MODIFIED="1543228731607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$06douban_login_cookie.coverage" NAME="06douban_login_cookie Coverage Results" MODIFIED="1576569329518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_spider.coverage" NAME="douban_spider Coverage Results" MODIFIED="1543225388507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/spiders" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$biquge_spider.coverage" NAME="biquge-spider Coverage Results" MODIFIED="1543295384105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01biquge-spider/biquge/biquge/spiders" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$04sqlite_sample.coverage" NAME="04sqlite_sample Coverage Results" MODIFIED="1576459012768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_top250_movies.coverage" NAME="douban_top250_movies Coverage Results" MODIFIED="1576570969474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1543225636038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_login.coverage" NAME="douban_login Coverage Results" MODIFIED="1576551583443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$dytt8.coverage" NAME="dytt8 Coverage Results" MODIFIED="1543228289042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/dytt8" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$WeiXinSpider.coverage" NAME="WeiXinSpider Coverage Results" MODIFIED="1543226398931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WxSpider/wx_spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_login_up.coverage" NAME="douban_login_up Coverage Results" MODIFIED="1576476078464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$05douban_login_6_0.coverage" NAME="05douban_login_6.0 Coverage Results" MODIFIED="1576546074671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_spider.coverage" NAME="douban_spider Coverage Results" MODIFIED="1543225388507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/spiders" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$xunbo.coverage" NAME="xunbo Coverage Results" MODIFIED="1543228723762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/xunbo" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$start.coverage" NAME="start Coverage Results" MODIFIED="1578878947142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$04sqlite_sample.coverage" NAME="04sqlite_sample Coverage Results" MODIFIED="1576459012768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$jandan_spider.coverage" NAME="jandan_spider Coverage Results" MODIFIED="1574675891837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jandan_spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1543225636038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$job_spider.coverage" NAME="job_spider Coverage Results" MODIFIED="1543231935558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job-spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$urlparse1.coverage" NAME="urlparse1 Coverage Results" MODIFIED="1543228310014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/urlparse2" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$biquge_spider.coverage" NAME="biquge-spider Coverage Results" MODIFIED="1543295384105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01biquge-spider/biquge/biquge/spiders" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$doubanSpider.coverage" NAME="doubanSpider Coverage Results" MODIFIED="1543227488123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DouBanSpider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1543228656469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_login.coverage" NAME="douban_login Coverage Results" MODIFIED="1576551583443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -69,32 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="douyu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#193#206#0" expanded="true" />
               </folding>
@@ -102,11 +81,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="188">
+                <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/cnblog_spider.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/demo.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/julyedu_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
-              <caret line="16" column="12" selection-start-line="16" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="228">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itcast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -159,9 +199,7 @@
         <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_login.py" />
         <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/06douban_login_cookie.py" />
         <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code/douban_top250_movies.py" />
-        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/settings.py" />
         <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itacst.py" />
-        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itcast.py" />
         <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/scrapy_learning.md" />
         <option value="$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/items.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/settings.py" />
@@ -178,22 +216,19 @@
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/readme.md" />
+        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/start.py" />
+        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/items.py" />
+        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itcast.py" />
+        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/pipelines.py" />
+        <option value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/settings.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-30" />
-    <option name="width" value="1058" />
-    <option name="height" value="728" />
+    <option name="x" value="629" />
+    <option name="y" value="16" />
+    <option name="width" value="976" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -219,39 +254,7 @@
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_06_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
-              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
-              <item name="Douyu" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="03scrapy_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_05_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douban_top250_movies">
+  <component name="RunManager" selected="Python.start">
     <configuration name="05douban_login_6.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,6 +313,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="06douban_login_cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
@@ -329,6 +335,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="douban_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
@@ -348,25 +357,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="douban_login_up" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Crawler-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Python-Crawler-Projects\01python_clawer_learning_julyedu\lesson_04_code\lesson_04_code\05douban_login_old.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="douban_top250_movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
@@ -386,21 +379,46 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Crawler-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.douban_login_up" />
       <item itemvalue="Python.05douban_login_6.0" />
       <item itemvalue="Python.douban_login" />
       <item itemvalue="Python.06douban_login_cookie" />
       <item itemvalue="Python.douban_top250_movies" />
+      <item itemvalue="Python.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start" />
         <item itemvalue="Python.douban_top250_movies" />
         <item itemvalue="Python.06douban_login_cookie" />
         <item itemvalue="Python.douban_login" />
         <item itemvalue="Python.05douban_login_6.0" />
-        <item itemvalue="Python.douban_login_up" />
       </list>
     </recent_temporary>
   </component>
@@ -418,91 +436,45 @@
       <workItem from="1574734012361" duration="1138000" />
       <workItem from="1575345964760" duration="1298000" />
       <workItem from="1576458736026" duration="19468000" />
+      <workItem from="1578878300598" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25128000" />
+    <option name="totallyTimeSpent" value="25855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="3" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.47505423" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.10231023" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17927383" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="2" weight="0.3296875" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32838285" />
-      <window_info anchor="right" id="SciView" order="0" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18123667" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.29609543" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32944915" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32838285" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32944915" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.39804772" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3296875" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01biquge-spider/biquge/biquge/spiders/biquge-spider.py" />
-    <entry file="file://$PROJECT_DIR$/jandan_spider/LICENSE" />
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/spiders/douban_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/LICENSE" />
     <entry file="file://$PROJECT_DIR$/51job-spider/post_require_new.txt" />
     <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
@@ -605,28 +577,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itacst.py" />
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itcast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/ss.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/yieldmethod.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5236" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/ss.json" />
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/yieldmethod.json" />
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1136">
@@ -641,11 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/itcast_info.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2322" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/itcast_info.json" />
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/itcastspider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -673,12 +621,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/tencent.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.json" />
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/tencent.json" />
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/Tencent/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -686,21 +630,6 @@
             <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -735,23 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -762,20 +674,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py">
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="16" column="12" selection-start-line="16" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="190">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#193#206#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="16" column="12" selection-start-line="16" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03scrapy_demo/scrapy_learning.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="188">
+            <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/cnblog_spider.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/julyedu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/spiders/itcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/yieldmethod.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
