@@ -9,21 +9,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$gevent1.coverage" NAME="gevent1 Coverage Results" MODIFIED="1579423408101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$spider.coverage" NAME="spider Coverage Results" MODIFIED="1543228731607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo06.coverage" NAME="demo06 Coverage Results" MODIFIED="1579154179848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap06" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1579398304966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo06_mutilprocess1.coverage" NAME="demo06-mutilprocess1 Coverage Results" MODIFIED="1579421779830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1579424031593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap08" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$WeiXinSpider.coverage" NAME="WeiXinSpider Coverage Results" MODIFIED="1543226398931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WxSpider/wx_spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_login_up.coverage" NAME="douban_login_up Coverage Results" MODIFIED="1576476078464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo02__1_.coverage" NAME="demo02 (1) Coverage Results" MODIFIED="1579145254080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap06" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo02__1_.coverage" NAME="demo02 (1) Coverage Results" MODIFIED="1579424610400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap09" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo03__1_.coverage" NAME="demo03 (1) Coverage Results" MODIFIED="1579075149027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap05" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$05douban_login_6_0.coverage" NAME="05douban_login_6.0 Coverage Results" MODIFIED="1576546074671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_spider.coverage" NAME="douban_spider Coverage Results" MODIFIED="1543225388507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36/spiders" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$start.coverage" NAME="start Coverage Results" MODIFIED="1578878947142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_06_code/ITcast/ITcast" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1579078267586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap06" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1579424495853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap09" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$04sqlite_sample.coverage" NAME="04sqlite_sample Coverage Results" MODIFIED="1576459012768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1578880593365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonScraping" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1543225636038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyDouBan36/ScrapyDouBan36" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1579253490659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo07_mutilprocess2.coverage" NAME="demo07-mutilprocess2 Coverage Results" MODIFIED="1579422725240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo05.coverage" NAME="demo05 Coverage Results" MODIFIED="1579421644312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1579423944683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap08" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$urlparse1.coverage" NAME="urlparse1 Coverage Results" MODIFIED="1543228310014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/urlparse2" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$chap02.coverage" NAME="chap02 Coverage Results" MODIFIED="1578880210682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonScraping" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_login.coverage" NAME="douban_login Coverage Results" MODIFIED="1576551583443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
@@ -32,15 +36,17 @@
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$rosi.coverage" NAME="rosi Coverage Results" MODIFIED="1543228982025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlers/crawl3/crawl3/spiders" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$06douban_login_cookie.coverage" NAME="06douban_login_cookie Coverage Results" MODIFIED="1576569329518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$douban_top250_movies.coverage" NAME="douban_top250_movies Coverage Results" MODIFIED="1576570969474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_04_code/lesson_04_code" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo08_mutilprocess3.coverage" NAME="demo08-mutilprocess3 Coverage Results" MODIFIED="1579422856639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$xunbo.coverage" NAME="xunbo Coverage Results" MODIFIED="1543228723762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/xunbo" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$jandan_spider.coverage" NAME="jandan_spider Coverage Results" MODIFIED="1574675891837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jandan_spider" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1579253278858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1579146436559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap06" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1579423802242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap08" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1579424243187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap08" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1579252574615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap06" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$job_spider.coverage" NAME="job_spider Coverage Results" MODIFIED="1543231935558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job-spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$biquge_spider.coverage" NAME="biquge-spider Coverage Results" MODIFIED="1543295384105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01biquge-spider/biquge/biquge/spiders" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$doubanSpider.coverage" NAME="doubanSpider Coverage Results" MODIFIED="1543227488123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DouBanSpider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1543228656469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$gevent_test.coverage" NAME="gevent_test Coverage Results" MODIFIED="1579423427367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -80,90 +86,25 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.52331287">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/work01.py">
+            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap09/demo01.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="523">
-                  <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#45#76#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="437">
+                  <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/mutilprocess1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <element signature="e#0#42#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend 2.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <element signature="e#0#47#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend.py">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo03.py">
+            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap09/demo02.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="341">
-                  <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-                  <folding>
-                    <element signature="e#381#395#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo01.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+                <state relative-caret-position="114">
+                  <caret line="6" column="30" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="30" />
                   <folding>
                     <element signature="e#46#61#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo02.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#45#61#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/thread1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <folding>
-                    <element signature="e#0#16#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -174,10 +115,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/Cha 7 -提升爬虫的速度.ipynb">
+            <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 9 -解决中文乱码.ipynb">
               <provider selected="true" editor-type-id="ipnb-editor">
                 <state>
-                  <selected id="4" />
+                  <selected id="10" />
                 </state>
               </provider>
             </entry>
@@ -208,16 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/spiders/itcastspider.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/ITcastSpider/ITcastSpider/pipelines.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/readme.md" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/settings.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/pipelines.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/readme.md" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/items.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Tencent/Tencent/spiders/tencent.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py" />
-        <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/settings.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/pipelines.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py" />
         <option value="$PROJECT_DIR$/03scrapy_demo/Douyu/readme.md" />
@@ -259,10 +190,20 @@
         <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/Cha 7 -提升爬虫的速度.ipynb" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo02.py" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo03.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo04.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo06-mutilprocess1.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/gevent1.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap08/demo01.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap08/demo02.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap08/demo03.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap08/demo04.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap08/反爬机制.md" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap09/demo01.py" />
+        <option value="$PROJECT_DIR$/04PythonScraping/chap09/demo02.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="798" />
     <option name="width" value="1067" />
     <option name="height" value="988" />
@@ -291,12 +232,7 @@
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="04PythonScraping" type="462c0819:PsiDirectoryNode" />
-              <item name="chap07提升爬虫的速度" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="51job-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="chap09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,11 +251,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap07提升爬虫的速度" />
       <recent name="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap04抓取动态网页" />
       <recent name="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap02" />
       <recent name="G:\pythonLearningWorkSpace\Python-Crawler-Projects\01python_clawer_learning_julyedu\lesson_07_demo" />
       <recent name="D:\python\Python-Crawler-Projects\03scrapy_demo\Tencent" />
-      <recent name="D:\python\Python-Crawler-Projects\03scrapy_demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap06" />
@@ -341,8 +277,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo03">
-    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo02 (1)">
+    <configuration name="demo01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,12 +286,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap09/demo01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Crawler-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap09/demo02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,12 +330,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap08/demo02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,12 +352,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap08/demo03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,7 +366,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,34 +374,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap06/demo06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="work01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Crawler-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap06/work01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04PythonScraping/chap08/demo04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -453,19 +389,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo06" />
-      <item itemvalue="Python.work01" />
-      <item itemvalue="Python.demo01" />
       <item itemvalue="Python.demo02" />
       <item itemvalue="Python.demo03" />
+      <item itemvalue="Python.demo04" />
+      <item itemvalue="Python.demo01 (1)" />
+      <item itemvalue="Python.demo02 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo02 (1)" />
+        <item itemvalue="Python.demo01 (1)" />
+        <item itemvalue="Python.demo04" />
         <item itemvalue="Python.demo03" />
         <item itemvalue="Python.demo02" />
-        <item itemvalue="Python.demo01" />
-        <item itemvalue="Python.work01" />
-        <item itemvalue="Python.demo06" />
       </list>
     </recent_temporary>
   </component>
@@ -483,12 +419,12 @@
       <workItem from="1574734012361" duration="1138000" />
       <workItem from="1575345964760" duration="1298000" />
       <workItem from="1576458736026" duration="19468000" />
-      <workItem from="1578878300598" duration="38622000" />
+      <workItem from="1578878300598" duration="44326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63750000" />
+    <option name="totallyTimeSpent" value="69454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -506,7 +442,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32944915" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49946696" visible="true" weight="0.36984816" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49946696" visible="true" weight="0.30585682" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -522,183 +458,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap03抓取静态网页/demo02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 3 -静态网页抓取.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap03抓取静态网页/demo01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 3 _章末实战.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap03抓取静态网页/work01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <element signature="e#47#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_07_demo/duanzi_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_07_demo/scrapy/mySpider/mySpider/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_07_demo/scrapy/mySpider/mySpider/spiders/itcast_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/demo02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <element signature="e#45#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/demo01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/抓取动态页面信息.md">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 4 -动态网页抓取.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 4 _章末实战.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/demo04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-          <folding>
-            <element signature="e#56#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap04抓取动态网页/demo03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap05/demo01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap05/demo02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="e#45#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 5 -解析网页.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap05/demo03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 5 _章末实战.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -784,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/qqnews_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 6 _章末实战.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -801,32 +553,10 @@
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/title.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/work01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-          <folding>
-            <element signature="e#45#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/demo01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/多协程.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/thread2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -835,10 +565,20 @@
         <state relative-caret-position="-18500" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+          <folding>
+            <element signature="e#381#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="228">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <element signature="e#46#61#0" expanded="true" />
           </folding>
@@ -847,46 +587,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           <folding>
             <element signature="e#45#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#46#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/thread1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/thread_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend 2.py">
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="361">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/mutilprocess1.py">
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo06-mutilprocess1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="385">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend.py">
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo08-mutilprocess3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo07-mutilprocess2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/multiprocess_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/work01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding>
+            <element signature="e#45#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/thread_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/result_single_time.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7/time_spend 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/Cha 7 -提升爬虫的速度.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -895,13 +706,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo03.py">
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/Get Alexa.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/多协程.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo10-gevent_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="196">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
           <folding>
-            <element signature="e#381#395#0" expanded="true" />
+            <element signature="e#44#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/demo09-gevent1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/多线程.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/多进程.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/qqnews_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/julyedu_spider.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_05_code/stackoverflow_spider.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/demo02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/demo03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 8 -反爬虫问题.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/demo04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/反爬机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap09/demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap09/demo02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 9 -解决中文乱码.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
         </state>
       </provider>
     </entry>

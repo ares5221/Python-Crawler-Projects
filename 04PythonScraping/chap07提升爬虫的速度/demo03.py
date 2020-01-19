@@ -24,13 +24,14 @@ import _thread
 import time
 from threading import Lock
 
+
 def test(i):
     global unfinished_thread
-    print ('开始运行第%s个进程'%i)
+    print('开始运行第%s个进程' % i)
     time.sleep(i)
     lock.acquire()
     unfinished_thread -= 1
-    print ('结束运行第%s个进程'%i)
+    print('结束运行第%s个进程' % i)
     lock.release()
 
 
@@ -46,7 +47,7 @@ if __name__ == '__main__':
             unfinished_thread += 1
             _thread.start_new_thread(test, (i,))
         except:
-            print ("Error: unable to start thread" + str(i))
+            print("Error: unable to start thread" + str(i))
     while True:
         # 等待所有线程完成
         lock.acquire()
@@ -57,4 +58,4 @@ if __name__ == '__main__':
         else:
             lock.release()
             break
-    print ('运行完毕,耗时%s秒' % (time.time() - start_time))
+    print('运行完毕,耗时%s秒' % (time.time() - start_time))

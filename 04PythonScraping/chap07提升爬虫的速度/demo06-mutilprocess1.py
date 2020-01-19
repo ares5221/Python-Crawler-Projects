@@ -1,6 +1,9 @@
 from multiprocessing import Process, Queue
 import time
 import requests
+from multiprocessing import cpu_count
+
+
 
 link_list = []
 with open('alexa.txt', 'r') as file:
@@ -31,6 +34,8 @@ def crawler(q):
         print (q.qsize(), url, 'Error: ', e)
 
 if __name__ == '__main__':
+    print(cpu_count())
+
     ProcessNames = ["Process-1", "Process-2", "Process-3"]
     workQueue = Queue(1000)
 
