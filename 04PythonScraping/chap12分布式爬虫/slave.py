@@ -32,11 +32,15 @@ def push_redis_list():
     return
 
 def get_img():
-    r = Redis(host='137.189.204.65', port=6379 ,password='redisredis')
+    # r = Redis(host='137.189.204.65', port=6379 ,password='redisredis')
+    r = Redis(host='127.0.0.1', port=6379)
     while True:
         try:
             url = r.lpop('img_url')
             url = url.decode('ascii')
+            if url[:2] == '//':
+                url = 'http:' + url
+            print (url)
             try:
                 response = requests.get(url, headers=headers,timeout = 20)
                 name = int(time.time())
@@ -54,7 +58,7 @@ def get_img():
     return 
 
 if __name__ == '__main__':           
-    this_machine = 'master'          
+    this_machine = 'slave'          
     print ('开始分布式爬虫')
     if this_machine == 'master':
         push_redis_list()

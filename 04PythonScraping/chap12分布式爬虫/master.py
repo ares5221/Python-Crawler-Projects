@@ -6,7 +6,8 @@ from redis import Redis
 headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' }
 
 def push_redis_list():
-    r = Redis(host='137.189.204.65', port=6379 ,password='redisredis')
+    # r = Redis(host='137.189.204.65', port=6379 ,password='redisredis')
+    r = Redis(host='127.0.0.1', port=6379)
     print (r.keys('*'))
     
     link_list = []
@@ -37,9 +38,6 @@ def get_img():
         try:
             url = r.lpop('img_url')
             url = url.decode('ascii')
-            if url[:2] == '//':
-                url = 'http:' + url
-            print (url)
             try:
                 response = requests.get(url, headers=headers,timeout = 20)
                 name = int(time.time())
@@ -57,7 +55,7 @@ def get_img():
     return 
 
 if __name__ == '__main__':           
-    this_machine = 'slave'          
+    this_machine = 'master'          
     print ('开始分布式爬虫')
     if this_machine == 'master':
         push_redis_list()
