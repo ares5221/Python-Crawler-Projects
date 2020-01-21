@@ -62,7 +62,7 @@
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo_zhihu_pro.coverage" NAME="demo-zhihu-pro Coverage Results" MODIFIED="1579498465996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1579507602540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap16爬虫实战四：餐厅评价" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$demo_wiki.coverage" NAME="demo_wiki Coverage Results" MODIFIED="1579493090870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap13爬虫实战一：维基百科" />
-    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$job_spider.coverage" NAME="job_spider Coverage Results" MODIFIED="1543231935558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job-spider" />
+    <SUITE FILE_PATH="coverage/Python_Crawler_Projects$job_spider.coverage" NAME="job_spider Coverage Results" MODIFIED="1579598582104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job-spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$doubanSpider.coverage" NAME="doubanSpider Coverage Results" MODIFIED="1543227488123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DouBanSpider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1543228656469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/Python_Crawler_Projects$gevent_test.coverage" NAME="gevent_test Coverage Results" MODIFIED="1579423427367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/cha7" />
@@ -107,11 +107,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/README.md">
+        <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="26" />
+              <first_editor relative-caret-position="-2223">
+                <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -119,18 +119,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Spider_Main.py">
+        <entry file="file://$PROJECT_DIR$/51job-spider/job_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="3143">
+              <caret line="328" column="6" lean-forward="true" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+              <folding>
+                <element signature="e#38#49#0" expanded="true" />
+                <element signature="e#1640#2678#0" />
+                <element signature="e#2716#3773#0" />
+                <element signature="e#3830#4690#0" />
+                <element signature="e#4728#5105#0" />
+                <element signature="e#7651#8313#0" />
+                <element signature="e#9318#9515#0" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/WechatSearchTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1653" />
           </provider>
         </entry>
       </file>
@@ -153,6 +155,7 @@
       <find>print</find>
       <find>print （</find>
       <find>print</find>
+      <find>\n</find>
     </findStrings>
     <replaceStrings>
       <replace>print (</replace>
@@ -164,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04PythonScraping/chap05/demo01.py" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap05/demo02.py" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap05/demo03.py" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap05/work01.py" />
@@ -215,10 +217,11 @@
         <option value="$PROJECT_DIR$/PythonSpiderNotes/Spider_Python/WallstreetcnSaveTest.py" />
         <option value="$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/WallstreetcnSaveTest.py" />
         <option value="$PROJECT_DIR$/PythonSpiderNotes/QunarSpider/QunarSpider.py" />
+        <option value="$PROJECT_DIR$/51job-spider/job_spider.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="798" />
     <option name="width" value="1067" />
     <option name="height" value="988" />
@@ -241,42 +244,19 @@
             <path>
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="01python_clawer_learning_julyedu" type="462c0819:PsiDirectoryNode" />
+              <item name="51job-spider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonSpiderNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="51job-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonSpiderNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="WechatSearchProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonSpiderNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="WechatSearchProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Wechatproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonSpiderNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="WechatSearchProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Wechatproject" type="462c0819:PsiDirectoryNode" />
-              <item name="Wechatproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Crawler-Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crawler-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonSpiderNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="WechatSearchProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Wechatproject" type="462c0819:PsiDirectoryNode" />
-              <item name="Wechatproject" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="51job-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="data1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.QunarSpider">
+  <component name="RunManager" selected="Python.job_spider">
     <configuration name="NewsSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Crawler-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,28 +338,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap04抓取动态网页\QunarSpider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo-baidu-map04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Crawler-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Python-Crawler-Projects\04PythonScraping\chap15爬虫实战三：百度地图API\demo-baidumap04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -432,20 +390,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="job_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Crawler-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51job-spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51job-spider/job_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo-baidu-map04" />
       <item itemvalue="Python.demo-baidumap05" />
       <item itemvalue="Python.demo01" />
       <item itemvalue="Python.NewsSpider" />
       <item itemvalue="Python.QunarSpider" />
+      <item itemvalue="Python.job_spider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.job_spider" />
         <item itemvalue="Python.QunarSpider" />
         <item itemvalue="Python.NewsSpider" />
         <item itemvalue="Python.demo01" />
         <item itemvalue="Python.demo-baidumap05" />
-        <item itemvalue="Python.demo-baidu-map04" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +443,12 @@
       <workItem from="1574734012361" duration="1138000" />
       <workItem from="1575345964760" duration="1298000" />
       <workItem from="1576458736026" duration="19468000" />
-      <workItem from="1578878300598" duration="65284000" />
+      <workItem from="1578878300598" duration="73546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90412000" />
+    <option name="totallyTimeSpent" value="98674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -485,7 +465,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32944915" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49946696" visible="true" weight="0.2559653" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49946696" visible="true" weight="0.27765727" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -501,103 +481,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap13爬虫实战一：维基百科/link_12-3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03scrapy_demo/Douyu/Douyu/spiders/douyu.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/demo05.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live/demo-zhihu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#45#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live/demo-view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/Cha 14 -爬虫实战二：知乎Live.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live/Cha 14 -爬虫实战二：知乎Live.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live/demo-pro-view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap14爬虫实战二：知乎Live/demo-zhihu-pro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <element signature="e#45#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/demo06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/cities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13295" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/cities2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/demo-baidumap03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#45#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/cities1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/demo02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap06/demo03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/demo-baidumap04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1938">
@@ -643,14 +526,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -844,8 +719,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Spider_Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="399">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap10 -登录与验证码处理/demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap08/反爬机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap12分布式爬虫/master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_require_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_locate.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-2793" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_counter1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-127" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_counter.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-741" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_require.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_desc_counter.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_desc_lg_counter.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2223">
+            <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data/post_salary_locate.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data/post_require_new.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data/post_salary.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/job_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3143">
+          <caret line="328" column="6" lean-forward="true" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+          <folding>
+            <element signature="e#38#49#0" expanded="true" />
+            <element signature="e#1640#2678#0" />
+            <element signature="e#2716#3773#0" />
+            <element signature="e#3830#4690#0" />
+            <element signature="e#4728#5105#0" />
+            <element signature="e#7651#8313#0" />
+            <element signature="e#9318#9515#0" />
+          </folding>
         </state>
       </provider>
     </entry>

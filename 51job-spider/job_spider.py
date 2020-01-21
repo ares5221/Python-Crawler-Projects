@@ -18,9 +18,9 @@ from queue import Queue
 from bs4 import BeautifulSoup
 from wordcloud import WordCloud
 
-
 # Make the standard library cooperative.
 monkey.patch_all()
+
 
 def get_logger():
     """
@@ -35,29 +35,28 @@ def get_logger():
     logger.addHandler(ch)
     return logger
 
+
 HEADERS = {
     "X-Requested-With": "XMLHttpRequest",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36"
-    "(KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+                  "(KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
 }
 
 START_URL = (
-    "http://search.51job.com/list/010000%252C020000%252C030200%252C040000"
-    ",000000,0000,00,9,99,Python,2,{}.html? lang=c&stype=1&postchannel=00"
-    "00&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lon"
-    "lat=0%2C0&radius=-1&ord_field=0&confirmdate=9&fromType=1&dibiaoid=0&"
-    "address=&line=&specialarea=00&from=&welfare="
+    "https://search.51job.com/list/010000%252C020000%252C030200%252C040000%252C180200,000000,0000,00,9,99,python,2,1.html?lang=c&stype=&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&providesalary=99&lonlat=0%2C0&radius=-1&ord_field=0&confirmdate=9&fromType=&dibiaoid=0&address=&line=&specialarea=00&from=&welfare="
 )
 
-LOG_LEVEL = logging.INFO    # 日志等级
+LOG_LEVEL = logging.INFO  # 日志等级
 POOL_MAXSIZE = 8  # 线程池最大容量
 
 logger = get_logger()
+
 
 class JobSpider:
     """
     51 job 网站爬虫类
     """
+
     def __init__(self):
         self.count = 1  # 记录当前爬第几条数据
         self.company = []
@@ -114,7 +113,7 @@ class JobSpider:
                     "\t", ""
                 ).strip()
                 with open(
-                    os.path.join("data", "post_require_new.txt"), "a", encoding="utf-8"
+                        os.path.join("data", "post_require_new.txt"), "a", encoding="utf-8"
                 ) as f:
                     f.write(s)
             except Exception as e:
@@ -143,7 +142,7 @@ class JobSpider:
         counter_sort = sorted(counter.items(), key=lambda value: value[1], reverse=True)
         pprint(counter_sort)
         with open(
-            os.path.join("data", "post_pre_desc_counter.csv"), "w+", encoding="utf-8"
+                os.path.join("data", "post_pre_desc_counter.csv"), "w+", encoding="utf-8"
         ) as f:
             f_csv = csv.writer(f)
             f_csv.writerows(counter_sort)
@@ -157,7 +156,7 @@ class JobSpider:
         counter_most = counter.most_common()
         pprint(counter_most)
         with open(
-            os.path.join("data", "post_pre_counter.csv"), "w+", encoding="utf-8"
+                os.path.join("data", "post_pre_counter.csv"), "w+", encoding="utf-8"
         ) as f:
             f_csv = csv.writer(f)
             f_csv.writerows(counter_most)
@@ -171,7 +170,7 @@ class JobSpider:
             lst.append((c.get("salary"), c.get("post"), c.get("locate")))
         pprint(lst)
         with open(
-            os.path.join("data", "post_salary_locate.csv"), "w+", encoding="utf-8"
+                os.path.join("data", "post_salary_locate.csv"), "w", encoding="utf-8"
         ) as f:
             f_csv = csv.writer(f)
             f_csv.writerows(lst)
@@ -185,16 +184,19 @@ class JobSpider:
         year = []
         thousand = []
         with open(
-            os.path.join("data", "post_salary_locate.csv"), "r", encoding="utf-8"
+                os.path.join("data", "post_salary_locate.csv"), "r", encoding="utf-8"
         ) as f:
             f_csv = csv.reader(f)
             for row in f_csv:
-                if "万/月" in row[0]:
-                    mouth.append((row[0][:-3], row[2], row[1]))
-                elif "万/年" in row[0]:
-                    year.append((row[0][:-3], row[2], row[1]))
-                elif "千/月" in row[0]:
-                    thousand.append((row[0][:-3], row[2], row[1]))
+                if row:
+                    if "万/月" in row[0]:
+                        mouth.append((row[0][:-3], row[2], row[1]))
+                    elif "万/年" in row[0]:
+                        year.append((row[0][:-3], row[2], row[1]))
+                    elif "千/月" in row[0]:
+                        thousand.append((row[0][:-3], row[2], row[1]))
+                    else:
+                        pass
         pprint(mouth)
 
         calc = []
@@ -237,7 +239,7 @@ class JobSpider:
         counter = Counter(lst).most_common()
         pprint(counter)
         with open(
-            os.path.join("data", "post_salary_counter1.csv"), "w+", encoding="utf-8"
+                os.path.join("data", "post_salary_counter1.csv"), "w+", encoding="utf-8"
         ) as f:
             f_csv = csv.writer(f)
             f_csv.writerows(counter)
@@ -249,7 +251,7 @@ class JobSpider:
         """
         counter = {}
         with open(
-            os.path.join("data", "post_pre_desc_counter.csv"), "r", encoding="utf-8"
+                os.path.join("data", "post_pre_desc_counter.csv"), "r", encoding="utf-8"
         ) as f:
             f_csv = csv.reader(f)
             for row in f_csv:
@@ -280,8 +282,8 @@ class JobSpider:
             host="localhost",
             port=3306,
             user="root",
-            passwd="root",
-            db="test",
+            passwd="123456",
+            db="51job",
             charset="utf8",
         )
         cur = conn.cursor()
@@ -289,13 +291,14 @@ class JobSpider:
             f_csv = csv.reader(f)
             sql = "insert into jobpost(j_salary, j_locate, j_post) values(%s, %s, %s)"
             for row in f_csv:
-                value = (row[0], row[1], row[2])
-                try:
-                    print(value)
-                    cur.execute(sql, value)
-                    conn.commit()
-                except Exception as e:
-                    logger.error(e)
+                if row:
+                    value = (row[0], row[1], row[2])
+                    try:
+                        print(value)
+                        cur.execute(sql, value)
+                        conn.commit()
+                    except Exception as e:
+                        logger.error(e)
         cur.close()
 
     def execute_more_tasks(self, target):
@@ -322,9 +325,9 @@ if __name__ == "__main__":
     spider.run()
     logger.info("总耗时 {} 秒".format(time.time() - start))
     # 按需启动
-    # spider.post_salary_locate()
-    # spider.post_salary()
-    # spider.insert_into_db()
-    # spider.post_salary_counter()
-    # spider.post_counter()
-    # spider.world_cloud()
+    spider.post_salary_locate()
+    spider.post_salary()
+    spider.insert_into_db()
+    spider.post_salary_counter()
+    spider.post_counter()
+    spider.world_cloud()
