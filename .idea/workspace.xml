@@ -105,12 +105,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2223">
+              <first_editor relative-caret-position="456">
                 <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               </first_editor>
               <second_editor />
@@ -121,16 +121,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/51job-spider/job_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3143">
-              <caret line="328" column="6" lean-forward="true" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+            <state relative-caret-position="767">
+              <caret line="328" column="6" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
               <folding>
                 <element signature="e#38#49#0" expanded="true" />
-                <element signature="e#1640#2678#0" />
-                <element signature="e#2716#3773#0" />
-                <element signature="e#3830#4690#0" />
-                <element signature="e#4728#5105#0" />
-                <element signature="e#7651#8313#0" />
-                <element signature="e#9318#9515#0" />
               </folding>
             </state>
           </provider>
@@ -221,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="798" />
     <option name="width" value="1067" />
     <option name="height" value="988" />
@@ -444,17 +438,18 @@
       <workItem from="1575345964760" duration="1298000" />
       <workItem from="1576458736026" duration="19468000" />
       <workItem from="1578878300598" duration="73546000" />
+      <workItem from="1581298757352" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98674000" />
+    <option name="totallyTimeSpent" value="99028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="798" y="0" width="1067" height="988" extended-state="7" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17179742" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -498,13 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/Cha 14 -爬虫实战三：百度地图API.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/Cha 14 -爬虫实战三：百度地图API.ipynb" />
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap15爬虫实战三：百度地图API/demo-baidumap01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -525,13 +514,6 @@
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap16爬虫实战四：餐厅评价/Cha 16 -爬虫实战四：餐厅评价.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04PythonScraping/chap16爬虫实战四：餐厅评价/Cha 16 -爬虫实战四：餐厅评价.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
           <selected id="0" />
         </state>
       </provider>
@@ -539,39 +521,11 @@
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap16爬虫实战四：餐厅评价/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/网易新闻抓取/2_新闻.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/网易新闻抓取/1_全站.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/NewsSpider.spec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/NewsSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/网易新闻抓取/2_新闻.txt" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/网易新闻抓取/1_全站.txt" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/NewsSpider.spec" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/ReadMe.md" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/NewsSpider/NewsSpider.py" />
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap16爬虫实战四：餐厅评价/demo01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -579,42 +533,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/config.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Java/Spider_Java1/src/synchronizetest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1145" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Java/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Python/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/ReadMe.md" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/config.ini" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Java/Spider_Java1/src/synchronizetest/Test.java" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Java/README.md" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/Spider_Python/README.md" />
     <entry file="file://$PROJECT_DIR$/04PythonScraping/chap07提升爬虫的速度/WallstreetcnSaveTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -625,26 +548,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/ZhihuSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="24" column="89" lean-forward="true" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
-          <folding>
-            <element signature="e#56#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ZhihuSpider/ZhihuSpider.py" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/ReadMe.md" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -652,14 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/QunarSpider/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/QunarSpider/ReadMe.md" />
     <entry file="file://$PROJECT_DIR$/01python_clawer_learning_julyedu/lesson_08验证码识别/Captcha1/pic/get_price_img1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -692,38 +590,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Wechatproject/Wechatproject/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Wechatproject/Wechatproject/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/WechatSearchTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1653" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Spider_Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/README.md" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Wechatproject/Wechatproject/items.py" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Wechatproject/Wechatproject/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/WechatSearchTest.py" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderNotes/WechatSearchProjects/Spider_Main.py" />
     <entry file="file://$PROJECT_DIR$/04PythonScraping/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -760,43 +631,43 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_locate.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-2793" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_counter1.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_counter1.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-127" />
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_salary_counter.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-741" />
-      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-741" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_require.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_desc_counter.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data1/post_desc_lg_counter.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -805,47 +676,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2223">
-            <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data/post_salary_locate.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="171">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data/post_require_new.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/data/post_salary.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51job-spider/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/51job-spider/job_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3143">
-          <caret line="328" column="6" lean-forward="true" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+        <state relative-caret-position="767">
+          <caret line="328" column="6" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
           <folding>
             <element signature="e#38#49#0" expanded="true" />
-            <element signature="e#1640#2678#0" />
-            <element signature="e#2716#3773#0" />
-            <element signature="e#3830#4690#0" />
-            <element signature="e#4728#5105#0" />
-            <element signature="e#7651#8313#0" />
-            <element signature="e#9318#9515#0" />
           </folding>
         </state>
       </provider>
